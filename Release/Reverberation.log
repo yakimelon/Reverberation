@@ -1,0 +1,7 @@
+﻿  main.cpp
+  コード生成しています。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(256): warning C4715: 'BackLogClass::MouseScroll' : 値を返さないコントロール パスがあります。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(342): warning C4715: 'BackLogClass::Jump' : 値を返さないコントロール パスがあります。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(177): warning C4715: 'TextClass::CutSpace' : 値を返さないコントロール パスがあります。
+  コード生成が終了しました。
+  Reverberation.vcxproj -> C:\Users\R\documents\visual studio 2010\Projects\Reverberation\Release\Reverberation.exe

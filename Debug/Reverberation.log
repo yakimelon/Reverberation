@@ -1,0 +1,85 @@
+﻿  DrawStringShadow.cpp
+  コードを生成中...
+  コンパイル中...
+  user.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\user.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\user.cpp(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\user.cpp(141): warning C4101: 'WriteData' : ローカル変数は 1 度も使われていません。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\user.cpp(142): warning C4101: 'fp' : ローカル変数は 1 度も使われていません。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\user.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+  title.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\title.cpp(50): warning C4101: 'SaveData' : ローカル変数は 1 度も使われていません。
+  text.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(152): warning C4018: '<=' : signed と unsigned の数値を比較しようとしました。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(170): warning C4018: '<=' : signed と unsigned の数値を比較しようとしました。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(529): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(544): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(721): warning C4101: 'WriteData' : ローカル変数は 1 度も使われていません。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(722): warning C4101: 'fp' : ローカル変数は 1 度も使われていません。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(849): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\time.inl(112) : 'localtime' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(861): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+  sound.cpp
+  secret.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\secret.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+  scroll_bar.cpp
+  save.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(242): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(326): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(341): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(504): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\save.cpp(470): warning C4101: 'SaveData' : ローカル変数は 1 度も使われていません。
+  process.cpp
+  page.cpp
+  mouse.cpp
+  menu_param.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\menu_param.cpp(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\menu_param.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\menu_param.cpp(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+  menu.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\menu.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' の宣言を確認してください。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\menu.cpp(176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+  main.cpp
+  key.cpp
+  graph.cpp
+  ending.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\ending.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' の宣言を確認してください。
+  dialog.cpp
+  config_menu.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\config_menu.cpp(42): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' の宣言を確認してください。
+  config.cpp
+  back_log.cpp
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(76): warning C4101: 'Color' : ローカル変数は 1 度も使われていません。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(163): warning C4101: 'MoveScroll' : ローカル変数は 1 度も使われていません。
+  コードを生成中...
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(256): warning C4715: 'BackLogClass::MouseScroll' : 値を返さないコントロール パスがあります。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\back_log.cpp(342): warning C4715: 'BackLogClass::Jump' : 値を返さないコントロール パスがあります。
+c:\users\r\documents\visual studio 2010\projects\reverberation\source\text.cpp(177): warning C4715: 'TextClass::CutSpace' : 値を返さないコントロール パスがあります。
+  コンパイル中...
+  anime.cpp
+  コードを生成中...
+  スキップ中... (関連する変更は検出されませんでした)
+  game.cpp
+  Reverberation.vcxproj -> C:\Users\R\documents\visual studio 2010\Projects\Reverberation\Debug\Reverberation.exe
