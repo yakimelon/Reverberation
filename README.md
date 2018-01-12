@@ -1,7 +1,8 @@
 # Reverberation
 ノベルゲーム「夜空の贈り物」のソースコードと完成品、windows vista/7/8/8.1/10 対応 (のはず)  
 
-[公式サイト](http://spinmelon.hp2.jp/)  
+[公式サイト](https://kawashi.github.io/ReverberationSites/)  
+[公式サイト(古い)](http://spinmelon.hp2.jp/)  
 
 # フォルダ構成
 - source - .cpp ファイルが入ってる
