@@ -1,5 +1,9 @@
 # Reverberation
-ノベルゲーム「夜空の贈り物」のソースコードと完成品、windows vista/7/8/8.1/10 対応 (のはず)  
+
+![a](https://freegame-mugen.jp/images/item-20160217215654.jpg)
+
+ノベルゲーム「夜空の贈り物」のソースコードと実行ファイル、windows vista/7/8/8.1/10 対応 (のはず)  
+Reverberation はプロジェクト名。
 
 [公式サイト](https://kawashi.github.io/ReverberationSites/)  
 
