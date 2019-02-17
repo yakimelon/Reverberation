@@ -7,7 +7,7 @@ Reverberation はプロジェクト名。
 
 DXライブラリを使用し、ノベルゲームエンジンを自作して制作した。
 
-[公式サイト](https://kawashi.github.io/ReverberationSites/)  
+[公式サイト](https://yakimelon.github.io/ReverberationSites/)  
 
 # フォルダ構成
 - source - .cpp ファイルが入ってる
